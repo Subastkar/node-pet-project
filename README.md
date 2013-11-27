@@ -1,4 +1,6 @@
-# This repository does'nt have a purpose yet.
+# This repository is a Pokemon a like online game
 
-This repository  was created to test a set of skills, that I want to improve.
-More information will be provided when the functionality is defined.
+This game would be designed to test and improve some game developing skills.
+The main idea is based on the pokemon game. And I would like to clarify that this game does not have any business purpose, only improve my skill with node and game dev.
+
+If you have any concerns about this repository feel free to create an issue. 
